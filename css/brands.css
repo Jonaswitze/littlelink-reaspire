@@ -114,6 +114,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Deezer */
+.button.button-deezer {
+  color: #ffffff;
+  background-image: linear-gradient(-135deg, #33A65E, #358C7B, #222B90, #CC1953, #FF8000, #FF9900);
+}
+.button.button-instagram:hover,
+.button.button-instagram:focus {
+  filter: brightness(90%);
+}
+
 /* Discord */
 .button.button-discord {
   color: #ffffff;
