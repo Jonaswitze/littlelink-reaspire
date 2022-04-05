@@ -84,6 +84,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Apple */
+.button.button-apple {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}
+
 /* Bandcamp */
 .button.button-bandcamp {
   color: #ffffff;
