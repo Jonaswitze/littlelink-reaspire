@@ -85,6 +85,7 @@ html {
   font-size: 100%;
   color-scheme: light dark;
 }
+.dark { background: #292929; }
 body {
   font-size: 18px;
   line-height: 24px;
@@ -162,7 +163,7 @@ dl,
 figure,
 p,
 ol {
-  margin-bottom: -5rem;
+  margin-bottom: 0rem;
 }
 
 /* Utilities
