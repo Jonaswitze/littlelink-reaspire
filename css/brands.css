@@ -370,12 +370,11 @@ button:hover,
 
 /* Spotify */
 .button.button-spotify {
-  color: #ffffff;
-  background-color: #000000;
-}
+  color: #FFFFFF;
+  background-color: #1ed760 }
 .button.button-spotify:hover,
 .button.button-spotify:focus {
-  filter: brightness(90%);
+  filter: brightness(90%) 
 }
 
 /* Steam */
